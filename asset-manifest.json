@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfoilo/static/css/main.50cd9f6f.css",
+    "main.js": "/portfoilo/static/js/main.e7d72c87.js",
+    "static/js/787.b031e383.chunk.js": "/portfoilo/static/js/787.b031e383.chunk.js",
+    "static/media/first web.png": "/portfoilo/static/media/first web.5b054b768e0e89d5aaa3.png",
+    "static/media/smart.png": "/portfoilo/static/media/smart.dd5cec4f47cc9e37f2a6.png",
+    "static/media/puzzle.png": "/portfoilo/static/media/puzzle.c800ef8b17a80dbb8085.png",
+    "static/media/airline.png": "/portfoilo/static/media/airline.6c525ea092688d4b9ad8.png",
+    "static/media/books home.png": "/portfoilo/static/media/books home.e006dfe986c297fe8622.png",
+    "static/media/five-star.png": "/portfoilo/static/media/five-star.c3e977070b44bcd686d8.png",
+    "static/media/task2.png": "/portfoilo/static/media/task2.229154d494a2cda6de0e.png",
+    "static/media/first project.png": "/portfoilo/static/media/first project.167ed2fc66e73eca0052.png",
+    "static/media/project2.png": "/portfoilo/static/media/project2.f0c4928fc3d25184770d.png",
+    "static/media/task3.png": "/portfoilo/static/media/task3.93bb2b1765ccfb6f1667.png",
+    "static/media/projectreact.png": "/portfoilo/static/media/projectreact.88a7548f1416c14760bc.png",
+    "static/media/backmon.png": "/portfoilo/static/media/backmon.a33eeb81cfd399326037.png",
+    "static/media/task1.png": "/portfoilo/static/media/task1.de93070ce77c335fd94a.png",
+    "static/media/Esraa_Gamal Alamawy_Resume_26-08-2023-16-22-45.pdf": "/portfoilo/static/media/Esraa_Gamal Alamawy_Resume_26-08-2023-16-22-45.d1c04d8888606027437c.pdf",
+    "static/media/esraa.jpg": "/portfoilo/static/media/esraa.a1f095954513e0952095.jpg",
+    "static/media/task0.png": "/portfoilo/static/media/task0.c7830654828b17623c5f.png",
+    "static/media/istockphoto-1325007051-612x612.jpg": "/portfoilo/static/media/istockphoto-1325007051-612x612.279cde00152e3e47b59f.jpg",
+    "static/media/task.png": "/portfoilo/static/media/task.76c560315cc41d4bffac.png",
+    "index.html": "/portfoilo/index.html",
+    "main.50cd9f6f.css.map": "/portfoilo/static/css/main.50cd9f6f.css.map",
+    "main.e7d72c87.js.map": "/portfoilo/static/js/main.e7d72c87.js.map",
+    "787.b031e383.chunk.js.map": "/portfoilo/static/js/787.b031e383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cd9f6f.css",
+    "static/js/main.e7d72c87.js"
+  ]
+}
